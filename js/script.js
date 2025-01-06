@@ -10,7 +10,7 @@ if (window.NodeList && !NodeList.prototype.forEach) {
 var productos = [
   {
     nombre: 'Laptop Gamer ASUS ROG',
-    imagen: 'img/producto1.jpg',
+    imagen: 'producto1.jpg',
     descripcion: 'Procesador Intel Core i7, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3060.',
     precio: 4000000,
     categoria: 'Computadoras',
